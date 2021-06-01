@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pooja-naveen
 - 👀 I’m interested in UI Development
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning WordPress
 - 💞️ I’m looking for a Junior UI Development role
 - 📫 How to reach me pooja.naveen9119@gmail.com / 9353600923
 
